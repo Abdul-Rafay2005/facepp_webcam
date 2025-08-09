@@ -23,4 +23,4 @@ This version:
 - Webcam
 - Face++ API account ([Sign up here](https://www.faceplusplus.com/))
 
-- 
+  
